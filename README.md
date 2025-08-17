@@ -17,3 +17,17 @@ Ghostgram VPN основан на передовом протоколе VLESS с
 Чтобы начать работать с нами, просто перейдите по следующей ссылке и следуйте инструкциям бота. Запуск займет всего несколько минут, после чего вы сможете наслаждаться безопасным и быстрым интернет-соединением.
 
 https://t.me/GhostGramVPN_Bot
+
+Полезные ссылки
+https://s3.amazonaws.com/telegramvpn/androidvpn.html
+https://s3.amazonaws.com/telegramvpn/besplatnovpn.html
+https://s3.amazonaws.com/telegramvpn/bestvpn.html
+https://s3.amazonaws.com/telegramvpn/brayzervpn.html
+https://s3.amazonaws.com/telegramvpn/iphonevpn.html
+https://s3.amazonaws.com/telegramvpn/macosvpn.html
+https://s3.amazonaws.com/telegramvpn/nerabotaetvpn.html
+https://s3.amazonaws.com/telegramvpn/routerVPN.html
+https://s3.amazonaws.com/telegramvpn/windowsvpn.html
+https://s3.amazonaws.com/telegramvpn/youtubevpn.html
+https://s3.amazonaws.com/telegramvpn/nerabotaetvpns.html
+https://s3.amazonaws.com/telegramvpn/skachatvpn.html
